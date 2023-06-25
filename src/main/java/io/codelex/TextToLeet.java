@@ -2,8 +2,7 @@ package io.codelex;
 
 import java.util.Scanner;
 
-public class SimpleLeetCipher {
-    // Something to use in IRC
+public class TextToLeet {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println(leetConverter("Welcome to simple LEET converter."));
